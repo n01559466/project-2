@@ -1,0 +1,90 @@
+<html>
+    <head><title>Contact</title>
+
+
+
+      <link rel = "stylesheet" href = "contactstyle.css"> 
+
+    </head> 
+ 
+  
+    <div class ="container">
+        <h1> Contact </h1>
+        </div>
+    
+      <body>
+        <div id ="wrapper"> 
+                  <div class ="contact-box">    
+<main>
+  
+             <form action="processMyInput.pfp" method="POST"> <br> 
+               
+               
+               <div class = "fullname" >
+               <label>Full Name:
+               <input type="text" placeholder="Full Name" name="FullName" id="FullNameid"></label>
+                 </div> 
+    <br>
+      <br>
+        
+        <div class = "email">
+        <label> Email: <input type="Email" placeholder="Email" name="Email" id="Email"></label>
+             <br>
+               <br>
+                 </div>
+               
+             
+          <br> 
+               <div class = "telephone" >
+                 <label>Telephone: <input type="Tel" placeholder="Telephone" name="myTel" id="myTel"> </label>
+                   </div> 
+   <br>
+<br>       
+       
+       <div class = "contactmethod">
+         <label  for = "contact" > Contact Method: </label>
+<input type = "text" name = "contact " id = "contact " list = "contact" > 
+        
+<datalist id = "contact">
+    <option value = "Phone" label = "Phone" >
+        <option value = "Email" label = "Email" >  
+                  <option value = "Any" label = "Any" >        
+
+                    </datalist>
+          </div> 
+          
+            <br>
+              
+           
+              <div class = "messages" > 
+            <p>Type your message here:</p>   
+     <textarea rows = "8" placeholder = "Message..." ></textarea>
+              </div> 
+
+   <br>
+<br>
+  
+  <div class = "buttons" >
+  
+          <input type = "submit" name = "mybutton1" id = "mybuttonId1" value = "Submit" >
+            </div> 
+          
+   <br>
+     <br>   
+   </form>                             
+              
+               
+           <div>
+             <footer>
+            easyrecipies@gmail.com <br>
+          123-657-5689 </div> 
+             </footer> 
+                         </form>
+                         </main>
+        </div>
+        </body>
+        </html> 
+      
+      
+        
+        

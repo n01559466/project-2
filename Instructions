@@ -1,0 +1,34 @@
+<html>
+    <head><title>Instructions</title>
+
+
+      <link rel = "stylesheet" href = "Instructionsstyle.css"> 
+
+    </head>
+
+   <div class = "container"> 
+<h1> Instructions </h1>     
+</div> 
+  
+ 
+  <body>
+<div id = "wrapper">
+
+  <main> 
+           
+    <ol><i>
+        <li>  Preheat the oven   </li> <br>
+        <li>  Measure out the dry ingredients in a bowl   </li> <br>
+        <li>  Whisk together the butter and sugar   </li> <br>
+        <li>  While whisking the butter and sugar, slowly add the dry ingredients   </li>  <br> 
+        <li>  Whisk together all the ingredients until they are combined    </li>   <br> 
+        <li>  Add anything you want into the mixer  </li>  <br> 
+        <li>  Line a pan with parchmengt paper </li>  <br>
+        <li>  Use a scooper to scoop out the mixture and lay it on the parchment page </li> <br>
+        <li>  Bake until ready  </li> </i><br>  
+           
+           </ol>
+           </main>
+           </div>
+           </body> 
+           </html>

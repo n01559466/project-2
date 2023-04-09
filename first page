@@ -1,0 +1,56 @@
+
+<html>
+  
+  
+<head>
+  
+  
+  <title>
+    cookies recipe
+  </title>
+  <link rel = "stylesheet" href = "firstpagestyle.css"> 
+    </head>
+  
+  <body>
+    <header>
+     <h2> Cookies Recipe </h2>
+      <div class = "search" > 
+        <label  for = "Search" > Search for other recipes: </label>
+        <input type="text" placeholder= "Search..">
+     </div> 
+        </header>
+      
+      <main>
+        <aside>
+          <img src="cookies.jpeg" alt ="cookies">
+            <table class= "table">
+              <tr><td>Total time : </td>
+                <td>30 mins</td>
+                </tr>
+                  <tr><td>Sevings : </td>
+                    <td>8 </td>
+                  </tr>
+                  </table>
+                </aside>
+  
+      <section>
+        <nav>
+          <a href="Nutrition.html">Nutrition</a>
+          <a href="Ingredients.html">Ingredients</a>
+          <a href="Instruction.html">Instructions</a>
+          <a href="Contact.html">Contact</a>
+        </nav>
+        
+        <h2>Learn how to make cookies, following ouw super quick and easy recipes!</h2>
+              </section>
+              </main>
+            <footer><p>&copy: Copyright 2016 Cookies Recipe</p></footer>
+            </body>
+          </html>  
+        
+ 
+  
+  
+  
+  
+  

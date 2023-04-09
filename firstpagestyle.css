@@ -1,0 +1,89 @@
+
+  
+
+
+
+header {
+    margin-bottom: 20px;
+    }
+    
+    header h2 {font-size: 220%;
+    color: orange;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    }
+
+
+
+a:link { color: orange;}
+
+a:hover, a:focus { color: blue; }
+    
+li {font-size: 95px;}
+
+
+
+section, aside {    
+    margin-bottom: 10px;
+    }
+
+        
+body { font-family: sans-serif;
+    font-size: 100%;
+    width: 990px;
+    background-color: white;
+    }
+
+.search {
+float:right;
+}
+    
+.search input{
+height:20px;
+margin-bottom: 20px;
+border:transparent;border-bottom:1px solid orange;}
+
+section {width: 535px;
+margin-left: 20px;
+padding-right: 25px;
+float: right;}
+
+section h2 {font-size: 35px;}
+
+aside {width: 70px; float: left;
+
+margin-right: 15px; }
+
+aside table {
+background-color:lemonchiffon;
+height:50px;
+width:300px;
+margin-bottom:30px;
+margin-left:50px;
+}
+
+  aside img {
+width: 300px;
+margin-left:50px;
+}
+
+footer {
+clear: both;
+}
+
+footer p {font-size: 80%;
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

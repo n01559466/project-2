@@ -1,0 +1,29 @@
+
+
+.table {
+ width : 90%; 
+ font-size: 20px;
+ margin-top: 50px; 
+      margin-left: 50px;
+ border-top: 1px solid orange;
+ border-collapse: collapse;
+ background-color:lemonchiffon; 
+
+ }
+ 
+.table, tr {
+ text-align:center;
+border-bottom: 1px solid orange; 
+
+ }
+ 
+ .table, td {
+ height: 60px;
+ }
+ 
+ .container h1{
+ margin-left:50px;
+ color:orange;
+ margin-top:50px;
+ }
+ 

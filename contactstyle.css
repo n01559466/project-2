@@ -1,0 +1,119 @@
+
+
+    
+.container {
+ text-align:center;
+ font-size:20px;
+ color:orange;
+ margin-bottom:20px;
+ }
+ 
+ .input, textarea{
+ height: 100px;
+     width:300px;
+ }
+ 
+ 
+ .contact-box {
+ margin-left:50px;
+ }
+ 
+ 
+ 
+ .messages {
+ color:orange;
+ }
+ 
+ .messages textarea{
+   border:transparent;
+ border-bottom: 1px solid orange;
+ 
+ }
+ 
+ 
+ .fullname input {
+   border:transparent;
+ border-bottom: 1px solid orange;
+ margin-left:35px;
+ }
+ 
+  
+ .fullname {
+ color:orange;
+ margin-left:280px;
+ font-size:20px;
+ }
+ 
+ .fullname input {
+   border:transparent;
+ border-bottom: 1px solid orange;
+ }
+  
+ .email {
+ color:orange;
+ margin-left:280px;
+ font-size:20px;
+ }
+ 
+ .email input {
+   border:transparent;
+ border-bottom: 1px solid orange;
+ margin-left:72px;
+ }
+  
+ .telephone {
+ color:orange;
+ margin-left:280px;
+ font-size:20px;
+ }
+ 
+ 
+ .telephone input {
+   border:transparent;
+ border-bottom: 1px solid orange;
+ margin-left:40px;
+ }
+ 
+ 
+ .contactmethod {
+ color:orange;
+ margin-left:280px;
+ font-size:20px;
+ }
+ 
+ .contactmethod input {
+   border:transparent;
+ border-bottom: 1px solid orange;
+ }
+ 
+ .messages {
+ color:orange;
+ margin-left:280px;
+ font-size:20px;
+ }
+ 
+ .messages textarea{
+   border:transparent;
+ border-bottom: 1px solid orange;
+ 
+ }
+ 
+ .buttons{
+ color:orange;
+ margin-left:280px;
+ }
+ 
+  .buttons input{
+ border: 1px solid orange; 
+ border-radius:30px;
+ background-color:transparent; 
+ height:50px;
+ width:300px;
+ }
+ 
+ footer {
+ margin-left:280px;
+ }
+ 
+ 
+

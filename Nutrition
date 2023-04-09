@@ -1,0 +1,50 @@
+<html>
+<head>
+    <title>Cookies Recipe</title>
+
+    <link rel = "stylesheet" href = "Nutritionstyle.css"> 
+
+</head>
+
+                                            
+    <div class = "container"> 
+<h1> Nutrition </h1>
+</div> 
+  
+  <body>
+   <div id = "wrapper">
+   
+   <table class= "table" >  
+     
+     
+     <tr>
+       <td>Calories</td>
+       <td>180</td>
+     </tr> 
+  
+   <tr><td> Fat</td>
+       <td>6g</td>
+     </tr>
+  
+
+        <tr><td>Sodium</td>
+       <td>40g</td>
+     </tr>
+  
+
+        <tr><td> Carbohydrates</td>
+       <td> 12g</td>
+     </tr>
+  
+
+      <tr><td>Protein</td>
+       <td>1g</td>
+     </tr>
+     
+     </table>
+    </div>
+  </body>
+    </html>
+    
+     
+  
